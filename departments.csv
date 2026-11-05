@@ -1,0 +1,122 @@
+department_id,department_name,manager_id,business_unit
+D001,Engineering,M001,Technology
+D002,Finance,M002,Corporate
+D003,Human Resources,M003,Operations
+D004,Marketing,M004,Customer
+D005,,M005,Commercial
+D006,Sales,M006,People
+D007,Customer Support,M007,Technology
+D008,Legal,M008,Corporate
+D009,Analytics,M009,unknown
+D010,Information Technology,M010,Customer
+D011,Product,M011,Commercial
+D012,Compliance,M012,People
+D013,Engineering - Division 2,M9999,Technology
+D014,Finance - Division 2,M014,Corporate
+D015,Human Resources - Division 2,M015,Operations
+D016,Marketing - Division 2,M016,Customer
+,Operations - Division 2,,Commercial
+D018,Sales - Division 2,M018,People
+D019,Customer Support - Division 2,M019,Technology
+D020,Legal - Division 2,M020,Corporate
+D021, engineering ,M021,Operations
+D022,Information Technology - Division 2,M022,Customer
+D023,Product - Division 2,M023,Commercial
+D024,Compliance - Division 2,M024,People
+D025,Engineering - Division 3,M025,Technology
+D026,Finance - Division 3,M026,Corporate
+D027,Human Resources - Division 3,M027,Operations
+D028,Marketing - Division 3,M028,Customer
+D029,Operations - Division 3,M029,Commercial
+D030,Sales - Division 3,M030,People
+D031,Customer Support - Division 3,M031,Technology
+D032,Legal - Division 3,M032,Corporate
+D033,Analytics - Division 3,M033,Operations
+D034,Information Technology - Division 3,,Customer
+D035,Product - Division 3,M035,Commercial
+D036,Compliance - Division 3,M036,People
+D037,Engineering - Division 4,M037,Technology
+D038,Finance - Division 4,M038,Corporate
+D039,Human Resources - Division 4,M039,Operations
+D040,Marketing - Division 4,M040,Customer
+D041,Operations - Division 4,M041,Commercial
+D042,Sales - Division 4,M042,People
+D043,Customer Support - Division 4,M043,Technology
+D044,Legal - Division 4,M044,Corporate
+D045,Analytics - Division 4,M045,Operations
+D046,Information Technology - Division 4,M046,Customer
+D047,Product - Division 4,M047,Commercial
+D048,Compliance - Division 4,M048,People
+D049,Engineering - Division 5,M049,Technology
+D050,Finance - Division 5,M050,Corporate
+D051,Human Resources - Division 5,,Operations
+D052,Marketing - Division 5,M052,Customer
+D053,Operations - Division 5,M053,Commercial
+D054,Sales - Division 5,M054,People
+D055,Customer Support - Division 5,M055,Technology
+D056,Legal - Division 5,M056,Corporate
+D057,Analytics - Division 5,M057,Operations
+D058,Information Technology - Division 5,M058,Customer
+D059,Product - Division 5,M059,Commercial
+D060,Compliance - Division 5,M060,People
+D061,Engineering - Division 6,M061,Technology
+D062,Finance - Division 6,M062,Corporate
+D063,Human Resources - Division 6,M063,Operations
+D064,Marketing - Division 6,M064,Customer
+D065,Operations - Division 6,M065,Commercial
+D066,Sales - Division 6,M066,People
+D067,Customer Support - Division 6,M067,Technology
+D068,Legal - Division 6,,Corporate
+D069,Analytics - Division 6,M069,Operations
+D070,Information Technology - Division 6,M070,Customer
+D071,Product - Division 6,M071,Commercial
+D072,Compliance - Division 6,M072,People
+D073,Engineering - Division 7,M073,Technology
+D074,Finance - Division 7,M074,Corporate
+D075,Human Resources - Division 7,M075,Operations
+D076,Marketing - Division 7,M076,Customer
+D077,Operations - Division 7,M077,Commercial
+D078,Sales - Division 7,M078,People
+D079,Customer Support - Division 7,M079,Technology
+D080,Legal - Division 7,M080,Corporate
+D081,Analytics - Division 7,M081,Operations
+D082,Information Technology - Division 7,M082,Customer
+D083,Product - Division 7,M083,Commercial
+D084,Compliance - Division 7,M084,People
+D085,Engineering - Division 8,,Technology
+D086,Finance - Division 8,M086,Corporate
+D087,Human Resources - Division 8,M087,Operations
+D088,Marketing - Division 8,M088,Customer
+D089,Operations - Division 8,M089,Commercial
+D090,Sales - Division 8,M090,People
+D091,Customer Support - Division 8,M091,Technology
+D092,Legal - Division 8,M092,Corporate
+D093,Analytics - Division 8,M093,Operations
+D094,Information Technology - Division 8,M094,Customer
+D095,Product - Division 8,M095,Commercial
+D096,Compliance - Division 8,M096,People
+D097,Engineering - Division 9,M097,Technology
+D098,Finance - Division 9,M098,Corporate
+D099,Human Resources - Division 9,M099,Operations
+D100,Marketing - Division 9,M100,Customer
+D101,Operations - Division 9,M101,Commercial
+D102,Sales - Division 9,,People
+D103,Customer Support - Division 9,M103,Technology
+D104,Legal - Division 9,M104,Corporate
+D105,Analytics - Division 9,M105,Operations
+D106,Information Technology - Division 9,M106,Customer
+D107,Product - Division 9,M107,Commercial
+D108,Compliance - Division 9,M108,People
+D109,Engineering - Division 10,M109,Technology
+D110,Finance - Division 10,M110,Corporate
+D111,Human Resources - Division 10,M111,Operations
+D112,Marketing - Division 10,M112,Customer
+D113,Operations - Division 10,M113,Commercial
+D114,Sales - Division 10,M114,People
+D115,Customer Support - Division 10,M115,Technology
+D116,Legal - Division 10,M116,Corporate
+D117,Analytics - Division 10,M117,Operations
+D118,Information Technology - Division 10,M118,Customer
+D119,Product - Division 10,,Commercial
+D120,Compliance - Division 10,M120,People
+D002,Finance,M002,Corporate
